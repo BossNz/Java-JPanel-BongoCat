@@ -4,7 +4,7 @@
 
 
 ## Inspiration 📦
-![InspirationPicture](InspirationPicture.png =300x300)
+![InspirationPicture](InspirationPicture.png | width=300)
 
 ## Result 🫡
-![ResultPicture](Assignment1_65050427_65050242.png =300x300)
+![ResultPicture](Assignment1_65050427_65050242.png | width=300)
